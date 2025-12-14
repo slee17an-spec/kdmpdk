@@ -1,9 +1,9 @@
-# Sub Gerai Pupuk Limbah
+# Sub Gerai Pupuk & Pengolahan Limbah
 
 ## Unit Usaha:
-- Budidaya Jagung Pakan
-- Budidaya Jagung Konsumsi
-- Budidaya Padi (Swasembada Beras Koperasi)
-- Produksi Silase Jerami, Batang/Daun Jagung & Hijauan Pakan
-- Optimalisasi Lahan Sawah dan Lahan Kering Anggota
-
+- Produksi Pupuk Organik Cair (POC)
+- Produksi Pupuk Organik Padat (POP)
+- Pengolahan Limbah Ternak
+- Pengolahan Limbah Rumah Tangga
+- Produksi Bio-Aktivator
+- Produksi Kompos
