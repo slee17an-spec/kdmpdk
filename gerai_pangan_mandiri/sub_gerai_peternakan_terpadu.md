@@ -1,9 +1,7 @@
 # Sub Gerai Peternakan Terpadu
 
 ## Unit Usaha:
-- Budidaya Jagung Pakan
-- Budidaya Jagung Konsumsi
-- Budidaya Padi (Swasembada Beras Koperasi)
-- Produksi Silase Jerami, Batang/Daun Jagung & Hijauan Pakan
-- Optimalisasi Lahan Sawah dan Lahan Kering Anggota
-
+- Ayam Petelur
+- Ayam KUB Pedaging
+- Pemeliharaan Sapi Indukan & Calon Indukan
+- Pemeliharaan Kambing & Pengembangan Anakan
