@@ -1,9 +1,10 @@
 # Sub Gerai Pakan Mandiri
 
 ## Unit Usaha:
-- Budidaya Jagung Pakan
-- Budidaya Jagung Konsumsi
-- Budidaya Padi (Swasembada Beras Koperasi)
-- Produksi Silase Jerami, Batang/Daun Jagung & Hijauan Pakan
-- Optimalisasi Lahan Sawah dan Lahan Kering Anggota
-
+- Pengelolaan Jagung & Dedak
+- Budidaya Maggot
+- Budidaya Cacing Pakan
+- Formulasi Pakan Ayam
+- Formulasi Pakan Sapi
+- Formulasi Pakan Kambing
+- Formulasi Pakan Ikan
