@@ -1,9 +1,7 @@
 # Sub Gerai Perikanan Terpadu
 
 ## Unit Usaha:
-- Budidaya Jagung Pakan
-- Budidaya Jagung Konsumsi
-- Budidaya Padi (Swasembada Beras Koperasi)
-- Produksi Silase Jerami, Batang/Daun Jagung & Hijauan Pakan
-- Optimalisasi Lahan Sawah dan Lahan Kering Anggota
-
+- Budidaya Ikan Nila
+- Budidaya Ikan Air Tawar Lainnya
+- Budidaya Udang Air Payau
+- Pemanfaatan Hasil Perikanan untuk Konsumsi & Bahan Pakan
